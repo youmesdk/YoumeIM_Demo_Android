@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">YouMe IM Android Demo</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="action_settings">Settings</string>
+	<string name="sendText">发送文本消息</string>
+	<string name="sendAudio">按住说话</string>
+	<string name="download">下载</string>
+	<string name="sendplayer">播放发送语音</string>
+	<string name="recvplayer">播放接收语音</string>
+	<string name="stop">停止</string>
+	<string name="downloadSuccess">语音下载成功</string>
+</resources>
